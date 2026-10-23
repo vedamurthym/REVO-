@@ -118,20 +118,7 @@ While presenting this to the department, we learned that a similar campus orderi
 - Building as a team: splitting the work, sharing a codebase, and shipping together.
 - Validating an idea against real-world needs, and handling it when others are already working on the same problem.
 
-## ⚙️ Getting Started
 
-> Update the paths and values below to match your repository.
-
-```bash
-# Clone the repository
-git clone https://github.com/vedamurthym/REVO-.git
-cd REVO-
-
-# Install Flutter dependencies
-flutter pub get
-
-# Run the app
-flutter run
 ```
 
 You will also need to:
@@ -147,17 +134,6 @@ You will also need to:
 - Keep RLS enabled on every table.
 - Review configuration files before pushing to a public repository.
 
-## 👨‍💻 Author
-
-**Vedamurthy M** and **[Friend's Name]**
-
-Engineering students at JNN College of Engineering, interested in AI, Machine Learning, and building real-world applications.
-
-> Replace `[Friend's Name]` with your friend's name and add GitHub or LinkedIn links for both of you.
-
-## 📄 License
-
-This project is available for learning and educational purposes. Add a license file if you want to define formal permissions for reuse and distribution.
 
 ---
 
